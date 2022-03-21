@@ -36,7 +36,8 @@ Dependências usadas no projeto:
 - [CSS Modules](https://www.npmjs.com/package/react-css-modules/)
 
 ### Projeto disponivel em:
-https://studies-list.netlify.app
+
+<a href="https://studies-list.netlify.app" target="_blank">Estudies List</a>
 
 ## 📥 Instalação e execução
 
