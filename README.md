@@ -1,6 +1,8 @@
 <h2 align="center">
   Studies List
-</h2> -->
+</h2> 
+
+> Status: Done.
 
 <p align="center">
   <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/gabrielmiller1/studies-list.svg" />
@@ -19,7 +21,7 @@
 </p>
 
 <p align="center">
-  <img src=".github\images\studies-list-min.png" width="100%" />
+  <img src="github\images\studies-list-min.png" width="100%" />
 </p>
 
 ## 💻 Projeto
