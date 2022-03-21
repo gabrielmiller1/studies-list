@@ -35,6 +35,9 @@ Dependências usadas no projeto:
 - [TypeScript](https://www.typescriptlang.org/)
 - [CSS Modules](https://www.npmjs.com/package/react-css-modules/)
 
+### Projeto disponivel em:
+https://studies-list.netlify.app
+
 ## 📥 Instalação e execução
 
 Faça um clone desse repositório e acesse o diretório.
