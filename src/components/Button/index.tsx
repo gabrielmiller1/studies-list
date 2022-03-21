@@ -1,4 +1,3 @@
-import { ReactChild, ReactNode } from "react";
 import style from "./Button.module.scss";
 
 interface ButtonProps {
