@@ -11,11 +11,11 @@
   
   <img alt="Repository size" src="https://img.shields.io/github/repo-size/gabrielmiller1/studies-list.svg" />
 
-  <a href="https://github.com/gabrielmiller1/twitch-live-02/commits/master">
+  <a href="https://github.com/gabrielmiller1/studies-list/commits/master">
     <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/gabrielmiller1/studies-list.svg" />
   </a>
   
-  <a href="https://github.com/leeonardovargas/twitch-live-02/issues">
+  <a href="https://github.com/gabrielmiller1/studies-list/issues">
     <img alt="Repository issues" src="https://img.shields.io/github/issues/gabrielmiller1/studies-list.svg" />
   </a>
 </p>
